@@ -11,6 +11,9 @@
 🌱 I’m currently learning
 <div>
  <img align="center" alt="Vinicius-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Vinicius-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nestjs.svg">
+  <img align="center" alt="Vinicius-graphql" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg">
+
 </div>
 <br>
 
