@@ -2,17 +2,8 @@
 
 🔭 I’m currently working with
 <div style="display: inline_block">
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vinicius-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-
-</div>
-<br>
-🌱 I’m currently learning
-<div>
- <img align="center" alt="Vinicius-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Vinicius-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nestjs.svg">
-  <img align="center" alt="Vinicius-graphql" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg">
+  <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 </div>
 <br>
@@ -24,9 +15,12 @@ Technologies that I know
    <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vinicius-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Vinicius-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vinicius-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- 
+  <img align="center" alt="Vinicius-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Vinicius-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nestjs.svg">
+  <img align="center" alt="Vinicius-graphql" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_graphql.svg">
+  <img align="center" alt="Vinicius-graphql" height="30" width="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png">
+   <img align="center" alt="Vinicius-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vinicius-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
  </div>
  
  <br>
