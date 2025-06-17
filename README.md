@@ -24,42 +24,36 @@ Technologies that I know
  </div>
  
  <br>
-<!--<div>
-  <a href="https://github.com/DViniciusBonin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DViniciusBonin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DViniciusBonin&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
+ 
  </div>
   
 <div style="display: block">
   
-   <a href="https://instagram.com/viniciusbonin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <!---<a href="https://instagram.com/viniciusbonin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinibonin007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dviniciusbonin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5542998662656" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-   
+  -->
  
  <div>
 
+<br>
 
-
- ### ⚙️ GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <table>
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=dviniciusbonin&theme=light&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dviniciusbonin&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -67,7 +61,7 @@ Technologies that I know
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dviniciusbonin&theme=light&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -85,9 +79,20 @@ Technologies that I know
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=dviniciusbonin&column=8&theme=light&hub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
 
 ---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/dviniciusbonin/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
