@@ -49,13 +49,10 @@ I'm a backend developer focused on Node.js and TypeScript. I hold a degree in In
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dviniciusbonin&theme=light&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dviniciusbonin&theme=default" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dviniciusbonin&layout=donut&theme=light&hide=php" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://git-hub-streak-stats.vercel.app/?user=dviniciusbonin&theme=light&hide_border=false" alt="Contribution Streak" />
+      <img src="https://streak-stats.demolab.com/?user=dviniciusbonin&theme=light&hide_border=false" alt="Contribution Streak" />
     </td>
   </tr>
 </table>
@@ -64,11 +61,10 @@ I'm a backend developer focused on Node.js and TypeScript. I hold a degree in In
 
 ### Latest Projects
 
-<br>
-
-<a href="https://github.com/dviniciusbonin/kong-fiap-challenge" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dviniciusbonin&repo=kong-fiap-challenge&theme=light&show_owner=true" />
+<a href="https://github.com/dviniciusbonin/desknin">
+  <img src="https://gh-card.dev/repos/dviniciusbonin/desknin.svg" />
 </a>
-<a href="https://github.com/dviniciusbonin/k8s-studies" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dviniciusbonin&repo=k8s-studies&theme=light&show_owner=true" />
+
+<a href="https://github.com/dviniciusbonin/url-shortener">
+  <img src="https://gh-card.dev/repos/dviniciusbonin/url-shortener.svg" />
 </a>
